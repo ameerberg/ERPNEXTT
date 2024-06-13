@@ -1,1 +1,2 @@
-__version__ = "1.20.1"
+# shopify_integration/__init__.py
+__version__ = '0.0.1'
